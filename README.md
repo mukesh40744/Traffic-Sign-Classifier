@@ -27,7 +27,7 @@ Visualize the German Traffic Signs Dataset using the pickled file(s).
   <tr>
     <th>
       <p align="center">
-           <img src="example/VisualizationOfDataset.PNG" alt="visualization of the dataset" width="60%" height="60%">
+           <img src="examples/VisualizationOfDataset.PNG" alt="visualization of the dataset" width="60%" height="60%">
            <br>Visualization of the dataset
       </p>
     </th>
@@ -42,7 +42,7 @@ Below image show the class  distributed in both training and testing set
   <tr>
     <th>
       <p align="center">
-           <img src="example/ClassDistribution.PNG" alt="class distribution" width="60%" height="60%">
+           <img src="examples/ClassDistribution.PNG" alt="class distribution" width="60%" height="60%">
            <br>Class Distribution
       </p>
     </th>
@@ -58,7 +58,7 @@ Code for data distibution
   <tr>
     <th>
       <p align="center">
-           <img src="example/DataDistibutionCode.PNG" alt="class distribution code" width="60%" height="60%">
+           <img src="examples/DataDistibutionCode.PNG" alt="class distribution code" width="60%" height="60%">
            <br>Class Distribution Code
       </p>
     </th>
@@ -73,7 +73,7 @@ Below code snippet show the feature extraction -
   <tr>
     <th>
       <p align="center">
-           <img src="example/FeatureProcessing.PNG" alt="Feature Processing" width="60%" height="60%">
+           <img src="examples/FeatureProcessing.PNG" alt="Feature Processing" width="60%" height="60%">
            <br>Feature Processing
       </p>
     </th>
@@ -99,7 +99,7 @@ Below are the point i have consider for preprocessed the image data-
   <tr>
     <th>
       <p align="center">
-           <img src="example/RGBImage.PNG" alt="Feature Processing" width="60%" height="60%">
+           <img src="examples/RGBImage.PNG" alt="Feature Processing" width="60%" height="60%">
            <br>Feature Processing
       </p>
     </th>
@@ -197,7 +197,7 @@ convolutional and 3 fully connected layers. The number of features learned was l
   <tr>
     <th>
       <p align="center">
-           <img src="example/PerformanceOnTestSet.PNG" alt="Feature Processing" width="60%" height="60%">
+           <img src="examples/PerformanceOnTestSet.PNG" alt="Feature Processing" width="60%" height="60%">
            <br>Feature Processing
       </p>
     </th>
@@ -218,7 +218,7 @@ Below images show the training and validation accuracy leranign path
   <tr>
     <th>
       <p align="center">
-           <img src="example/TrainAccuracy.PNG" alt="Train Accuracy" width="60%" height="60%">
+           <img src="examples/TrainAccuracy.PNG" alt="Train Accuracy" width="60%" height="60%">
            <br>Train Accuracy
       </p>
     </th>
@@ -246,7 +246,7 @@ Below are image i have used for testing the model-
   <tr>
     <th>
       <p align="center">
-           <img src="example/NewImagesForTesting.PNG" alt="Feature Processing" width="60%" height="60%">
+           <img src="examples/NewImagesForTesting.PNG" alt="Feature Processing" width="60%" height="60%">
            <br>Feature Processing
       </p>
     </th>
@@ -263,7 +263,7 @@ Here are the results of the prediction:
   <tr>
     <th>
       <p align="center">
-           <img src="example/NewImageProcessingResult.PNG" alt="NewImage Processing Result" width="60%" height="60%">
+           <img src="examples/NewImageProcessingResult.PNG" alt="NewImage Processing Result" width="60%" height="60%">
            <br>NewImage Processing Result
       </p>
     </th>
@@ -289,7 +289,7 @@ Below image show the perfomrance on new images
   <tr>
     <th>
       <p align="center">
-           <img src="example/PerformanceOnNewImages.PNG" alt="PerformanceOnNewImages" width="60%" height="60%">
+           <img src="examples/PerformanceOnNewImages.PNG" alt="PerformanceOnNewImages" width="60%" height="60%">
            <br>Performance On New Images
       </p>
     </th>
@@ -302,7 +302,7 @@ Below is the soft max visualization
   <tr>
     <th>
       <p align="center">
-           <img src="example/SoftMaxVisulaization.PNG" alt="Soft Max Visulaization" width="60%" height="60%">
+           <img src="examples/SoftMaxVisulaization.PNG" alt="Soft Max Visulaization" width="60%" height="60%">
            <br>Soft Max Visulaization
       </p>
     </th>
@@ -315,7 +315,7 @@ Below is the soft max perfomrance SoftMaxProfarmance
   <tr>
     <th>
       <p align="center">
-           <img src="example/SoftMaxProfarmance.PNG" alt="Soft Max Profarmance" width="60%" height="60%">
+           <img src="examples/SoftMaxProfarmance.PNG" alt="Soft Max Profarmance" width="60%" height="60%">
            <br>Soft Max Profarmance
       </p>
     </th>
@@ -330,7 +330,7 @@ Below is the soft max perfomrance SoftMaxProfarmance
   <tr>
     <th>
       <p align="center">
-           <img src="example/NetworkState.PNG" alt="Neural Network State" width="60%" height="60%">
+           <img src="examples/NetworkState.PNG" alt="Neural Network State" width="60%" height="60%">
            <br>Neural Network State
       </p>
     </th>
